@@ -7,6 +7,7 @@
 
 #include "../../MCAL/DIO0/DIO_int.h"
 #include "../../MCAL/DIO0/DIO_config.h"
+#include "../../MCAL/DIO0/DIO_priv.h"
 #include <util/delay.h>
 
 
